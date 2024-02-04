@@ -1,3 +1,4 @@
+![logo](https://github.com/rajshekarbadiger10/rajshekarbadiger10/blob/main/githubbanner.png)
 <h1 align="center">Hi 👋, I'm Rajshekar kumar badiger</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
